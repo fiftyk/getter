@@ -1,6 +1,6 @@
 {
-  "name": "getter",
-  "version": "0.1.0",
+  "name": "object-getter",
+  "version": "0.2.0",
   "description": "get value by property-chains from object or array",
   "main": "index.js",
   "scripts": {

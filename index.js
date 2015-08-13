@@ -16,3 +16,4 @@ var getter = function (obj, keychains, defaultValue) {
   return result;
 };
 
+module.exports = getter;
