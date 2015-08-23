@@ -7,7 +7,7 @@ var getter = function (obj, keychains, defaultValue) {
     sObj = 'object';
 
   for(var i = 0, size = keys.length; i < size; i++) {
-    if(typeof obj === sFunc || typeof obj === sObj) {
+    if(typeof result === sFunc || typeof result === sObj) {
       result = result[keys[i]];
     }else{
       break;
